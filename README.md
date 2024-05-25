@@ -1,33 +1,36 @@
-![MasterHead]()
-![](https://komarev.com/ghpvc/?username=berkayemikonel&color=blue)
+<!--![MasterHead]()-->
+<!--
+![](https://komarev.com/ghpvc/?username=berkayemikonel&color=blue)-->
 <div align="center">
  <a href="https://github.com/berkayemikonel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Berkay+Emikönel+%e2%9c%a8;%f0%9f%93%9a+Cyber+Security+Student+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
+<!--
 <img src="![walking](https://github.com/berkayemikonel/berkayemikonel/assets/134140853/f33ef00a-1ae4-4a4b-b091-907cf3bcd307)" alt="Coding" width=200 height=500 align="right">
-
+-->
 
 <h3 align="left">&nbsp; A passionate cyber security from Turkey.</h3>
-
+<!--
 - 🔭 I’m currently working on ......
-
-- 💬 Ask me about **Blockchain**
+<!--
+- 💬 Ask me about **Blockchain**   -->
 
 - 📫 How to reach me **emikonelberkay@gmail.com**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/berkayemikonel?theme=unicorn)](https://leetcode.com/berkayemikonel/)
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://linkedin.com/in/berkayemikonel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayemikonel" height="30" width="40" /></a>
-
+-->
+<!--  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://linkedin.com/in/berkayemikonel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayemikonel" height="30" width="40" /></a> -->
+<!--
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
-
+-->
 
 <!--
 <details>
@@ -76,7 +79,7 @@
 # Github Stats
 
  <br />
- 
+ <!--
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
@@ -85,10 +88,10 @@
   </a>
 </p>
 
-  
+ -->
 <br />
 
-
+<!--
  
  <p align="center">
   <a>
@@ -98,10 +101,10 @@
   </a>
 </p>
  
-
+-->
  
  <br />
- 
+ <!--
   
   
   <p align="center">
@@ -111,14 +114,13 @@
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
- 
+ -->
   
   
  <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
 -->
-
-
+<!--
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=berkayemikonel&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
@@ -128,7 +130,7 @@
 
 
 <br />
-
+-->
 
 <!--
 </details>
