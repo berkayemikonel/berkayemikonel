@@ -9,7 +9,10 @@
 <p align="left">
 <!-- <a href="https://twitter.com/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abc" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/berkayemikonel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayemikonel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user8966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user8966" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29644145/user8966" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user8966" height="30" width="40" />
+</a>
+
 <!-- <a href="https://medium.com/@abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abc" height="30" width="40" /></a>-->
 <a href="https://www.hackerrank.com/rootx8966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rootx8966" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/berkayemikonel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="berkayemikonel" height="30" width="40" /></a>
